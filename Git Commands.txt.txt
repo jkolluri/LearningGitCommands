@@ -1,0 +1,9 @@
+Git Clone
+Git pull 
+Git Merge
+Git push
+git revert 
+git checkout
+git brnach
+git init
+git Add
